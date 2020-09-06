@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 - User can delete product form cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70ecae40-2397-4a9e-997e-69e5ad7ca3bc</testCaseGuid>
+   <variable>
+      <defaultValue>'Nokia lumia 1520'</defaultValue>
+      <description></description>
+      <id>719745c7-8dc0-4b74-9e7e-b56f9c7ddd59</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>12651236-2fa0-4c8a-92d6-07d048d6b007</id>
+      <masked>false</masked>
+      <name>productPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ebdaa849-6fb0-4b5c-9c77-15be64cbd5a6</id>
+      <masked>false</masked>
+      <name>productDescription</name>
+   </variable>
+</TestCaseEntity>

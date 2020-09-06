@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08 - User can not log in when using user not regisred</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b36d419-fcba-4eec-89c0-2b9be6231b8d</testCaseGuid>
+   <variable>
+      <defaultValue>'fawfau2'</defaultValue>
+      <description></description>
+      <id>148c83fa-f73f-4703-8239-6ad7644e0562</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>a75822da-fd3e-4ecc-8a75-df63eaebe00c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

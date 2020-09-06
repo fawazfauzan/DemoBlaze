@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05 - User can not log in when username empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4bce3364-85c7-461f-9506-915a772250f9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>850d1447-e297-43ed-8257-daa0a2c4e58b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>3ddc287b-572b-470d-9035-b2fbf2d9cfc7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

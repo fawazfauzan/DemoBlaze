@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chooseProductDescription</name>
+   <tag></tag>
+   <elementGuidId>d1b53b0c-2d25-4086-b0a0-890fe38040c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h4[a[text()='${productName}']]/following-sibling::p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h4[a[text()='${productName}']]/following-sibling::p</value>
+   </webElementProperties>
+</WebElementEntity>

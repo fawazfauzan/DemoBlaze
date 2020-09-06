@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04 - User can click place order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cd8ac33-87e5-495f-95f2-4ec4da14f3ee</testCaseGuid>
+   <variable>
+      <defaultValue>'Nexus 6'</defaultValue>
+      <description></description>
+      <id>0d59bbd5-0ec1-4817-aba0-79865862eb11</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e74a808e-69a6-4501-8da2-e0710ab67d28</id>
+      <masked>false</masked>
+      <name>productPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>130ca337-4dde-414c-badd-c25690e29da2</id>
+      <masked>false</masked>
+      <name>productDescription</name>
+   </variable>
+</TestCaseEntity>

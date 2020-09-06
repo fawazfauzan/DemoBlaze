@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02 - User success sign up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f778377d-b7a3-4edf-9e84-673bbf7a2f5a</testCaseGuid>
+   <variable>
+      <defaultValue>'fawfau'</defaultValue>
+      <description></description>
+      <id>61f58eb8-280a-404d-8fd5-515439f0322d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>02f1cfc7-9cae-4ed2-9c23-8c0e486a22fd</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

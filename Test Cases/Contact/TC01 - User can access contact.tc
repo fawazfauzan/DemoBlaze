@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01 - User can access contact</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a75d1885-3937-43a1-a0a3-6ed18541ee81</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08 - User can add product to the cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ae2beb5-206c-4094-a30e-8d7ef5541209</testCaseGuid>
+   <variable>
+      <defaultValue>'Samsung galaxy s6'</defaultValue>
+      <description></description>
+      <id>7bd68567-eccc-4870-af1f-45e1392b8130</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>10c71370-5fbe-4488-8f3c-700ee4633419</id>
+      <masked>false</masked>
+      <name>productPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f4c0dbc5-85fa-421a-9838-569fb7d2499d</id>
+      <masked>false</masked>
+      <name>productDescription</name>
+   </variable>
+</TestCaseEntity>

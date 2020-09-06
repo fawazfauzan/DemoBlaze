@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01 - User can access Home page demoblaze</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dee655ac-632b-4d15-9edb-d42fa0d5eb44</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04 - User can not sign when username is empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cd9572c-6cf4-4444-96ee-afbd60ed58e6</testCaseGuid>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>6b27e154-1476-46df-bb5e-3c860ed7c9d8</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

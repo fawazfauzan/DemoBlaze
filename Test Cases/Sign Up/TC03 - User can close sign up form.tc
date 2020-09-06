@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 - User can close sign up form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4bb1d81-7f22-41e1-8947-daddff40d2ad</testCaseGuid>
+</TestCaseEntity>

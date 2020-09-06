@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01 - User can access menu sign up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9deef9d-d364-4681-af6d-2e54bc648135</testCaseGuid>
+</TestCaseEntity>

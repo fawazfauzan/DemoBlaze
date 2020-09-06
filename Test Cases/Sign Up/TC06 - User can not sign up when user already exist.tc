@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06 - User can not sign up when user already exist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f151b7a4-dc81-4c46-a060-c0ecadd0f069</testCaseGuid>
+   <variable>
+      <defaultValue>'fawfau'</defaultValue>
+      <description></description>
+      <id>46314cd8-a9b1-469b-b3c1-79429d17ee29</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>ac47f599-44cb-4f71-9f61-82e3073c9b3f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

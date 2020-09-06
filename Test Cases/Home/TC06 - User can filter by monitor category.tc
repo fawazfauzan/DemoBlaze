@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06 - User can filter by monitor category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb83e1d2-3154-45aa-af3f-f1ae56f34e74</testCaseGuid>
+</TestCaseEntity>

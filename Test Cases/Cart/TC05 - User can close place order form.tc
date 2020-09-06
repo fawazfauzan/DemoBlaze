@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05 - User can close place order form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb9fe2cc-8b14-4e2f-839a-d2a58d0f3803</testCaseGuid>
+   <variable>
+      <defaultValue>'Samsung galaxy s7'</defaultValue>
+      <description></description>
+      <id>5d2bfd6f-c54b-4acc-b9c3-2108557f145d</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a4d48135-84bb-4a37-ab3c-05d879d3c642</id>
+      <masked>false</masked>
+      <name>productPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>62b5dfb3-870b-46dd-b5f3-17fbb7ed078c</id>
+      <masked>false</masked>
+      <name>productDescription</name>
+   </variable>
+</TestCaseEntity>

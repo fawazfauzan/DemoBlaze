@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07 - User can access product detail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d1357a2-d63b-4eb2-8bd5-6421ede9ad01</testCaseGuid>
+   <variable>
+      <defaultValue>'Samsung galaxy s6'</defaultValue>
+      <description></description>
+      <id>2871b181-9fff-4326-88d8-7b7d8bd3ab2d</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>712a9c7c-a4f2-4a0f-8af1-b00be8f130c3</id>
+      <masked>false</masked>
+      <name>productPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>21fd8d66-c820-4a58-8f18-a8301b897e72</id>
+      <masked>false</masked>
+      <name>productDescription</name>
+   </variable>
+</TestCaseEntity>

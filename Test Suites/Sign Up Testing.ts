@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Sign Up Testing</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>c2148f0d-1e6c-4e9c-b644-7a0cdf050754</testSuiteGuid>
+   <testCaseLink>
+      <guid>3557113c-1370-48c1-9703-fd8bfc5b7096</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sign Up/TC01 - User can access menu sign up</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fa006fdc-44cb-4c70-88e8-83209fda7e42</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sign Up/TC02 - User success sign up</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>61f58eb8-280a-404d-8fd5-515439f0322d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>02f1cfc7-9cae-4ed2-9c23-8c0e486a22fd</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b01f966f-c82d-4159-805a-ed4f9d5921e4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sign Up/TC03 - User can close sign up form</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f8c22676-aa69-47d6-ac8c-824c56f980d0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sign Up/TC04 - User can not sign when username is empty</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6b27e154-1476-46df-bb5e-3c860ed7c9d8</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ff7880d7-dafc-4bef-84c8-47dda3a114dc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sign Up/TC05 - User can not sign up when password is empty</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3d620df9-ec3c-4295-bf04-22260756a8f3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>454ab598-dc7d-451c-9964-be6a9cf9b62c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8549d5c4-11f7-4959-a63b-42a5f9001dd9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sign Up/TC06 - User can not sign up when user already exist</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>46314cd8-a9b1-469b-b3c1-79429d17ee29</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ac47f599-44cb-4f71-9f61-82e3073c9b3f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

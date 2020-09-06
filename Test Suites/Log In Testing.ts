@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Log In Testing</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>556b0af9-14f4-4da0-9584-db5936f32964</testSuiteGuid>
+   <testCaseLink>
+      <guid>a73f898a-827a-441d-ac81-a6f3bfdd5908</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Log In/TC01 - User can akses Log In</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>375fb2ce-8673-46dc-9a41-fbcb278d2301</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Log In/TC02 - User succes Log In</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2abe6731-d229-4bf1-9368-31a23ec5b311</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a7c5825e-32d2-4799-9518-b8d723e957e9</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5f7150b9-e2ce-40e1-909d-f82646f83aef</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Log In/TC03 - User success logout</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>30bb0b71-b333-4882-89b2-211566c1e7a3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Log In/TC04 - User can close log in form</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>96635703-3bc1-4133-8837-1dfa787363ef</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Log In/TC05 - User can not log in when username empty</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>850d1447-e297-43ed-8257-daa0a2c4e58b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3ddc287b-572b-470d-9035-b2fbf2d9cfc7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2e07bced-29cf-42bb-aa44-7507c5813546</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Log In/TC06 - User can not log in when password empty</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ce260d2c-1315-46a6-b515-1244b596538e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2408cadf-0159-4c11-a170-d83a13761b62</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6dc717f7-3764-43e8-ac62-06f17ecb50df</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Log In/TC07 - User can not log in when using wrong password</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2faef733-8c4f-48e2-a4a2-984a4e1d1098</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0a9079be-4d30-4e84-acd9-69ee8bf7900d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>277e958c-f9a6-4015-ad58-d631868c5fc7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Log In/TC08 - User can not log in when using user not regisred</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>148c83fa-f73f-4703-8239-6ad7644e0562</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a75822da-fd3e-4ecc-8a75-df63eaebe00c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

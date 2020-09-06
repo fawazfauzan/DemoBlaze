@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02 - User can see product have been added to the cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83e068ec-ba32-4571-a691-80aa6d16da4c</testCaseGuid>
+   <variable>
+      <defaultValue>'ASUS Full HD'</defaultValue>
+      <description></description>
+      <id>2145b6ad-654c-4e7d-8167-4aeae4d20905</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>50d4cbdc-6d0e-4aff-9ad6-25646ee04fb1</id>
+      <masked>false</masked>
+      <name>productPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3451b318-03ad-4621-a26a-6399f1e01e29</id>
+      <masked>false</masked>
+      <name>productDescription</name>
+   </variable>
+</TestCaseEntity>
