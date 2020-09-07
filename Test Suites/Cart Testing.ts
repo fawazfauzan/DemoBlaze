@@ -12,13 +12,13 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>1f482da4-45ba-42e1-a0ce-3ea8069a3ddd</testSuiteGuid>
    <testCaseLink>
-      <guid>d3967e63-8c16-4423-9d1d-0345d72d9ccc</guid>
+      <guid>b3cf6184-66c6-4a26-a8c5-688b0b502495</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Cart/TC01 - User can access cart</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>6fa4d728-8c85-463c-bc65-a22895e9115f</guid>
+      <guid>5bec12c4-84c4-41be-9d9b-d80f884a9e2e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Cart/TC02 - User can see product have been added to the cart</testCaseId>
@@ -42,7 +42,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>7af77d75-d978-44e3-a07d-bd61c079ee63</guid>
+      <guid>8acf5c29-8a57-4caa-ac5e-a8b055e4719b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Cart/TC03 - User can delete product form cart</testCaseId>
@@ -66,7 +66,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>5c5e5b4b-8b6e-4861-8567-7ebe76055d76</guid>
+      <guid>b086e04d-9200-4ed9-a931-c47bdc5bec47</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Cart/TC04 - User can click place order</testCaseId>
@@ -90,7 +90,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>f7948ee8-5bb0-4e96-b097-8a2b054a2ab4</guid>
+      <guid>954e88a2-8afa-4d90-8f85-33f0c7befe90</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Cart/TC05 - User can close place order form</testCaseId>
@@ -114,10 +114,10 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>b2e0987d-a812-4bdc-86ab-42efb48ef257</guid>
+      <guid>0688e396-bfbe-43a0-a03c-df7b6117f508</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Cart/TC06 - User successful purchase order</testCaseId>
+      <testCaseId>Test Cases/Cart/TC06 - User successful purchase order without log in</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -174,10 +174,82 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>ba7ee563-c140-44f1-b3fc-15eeb23914be</guid>
+      <guid>93ea2caf-0c5d-49ba-9858-51c3ffcb08ed</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Cart/TC07 - User can not purchase order when name and credit card empty</testCaseId>
+      <testCaseId>Test Cases/Cart/TC07 - User successful purchase order with log in</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2abe6731-d229-4bf1-9368-31a23ec5b311</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a7c5825e-32d2-4799-9518-b8d723e957e9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>07fb44d8-afe7-4b66-b658-4f897a8e96c0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ea1e9fa9-404e-4ef1-9042-b3d31b1c7d59</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>284a2ceb-01c8-4c43-89f9-13f5a6426f57</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>496545db-5366-4b26-aa02-158732b8ed1d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>171a80f4-5612-4b8e-817e-9adf5a1cf538</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3518a328-58c7-4a0e-ad26-c234526f59cd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>caebc2b7-f706-4c38-9b9f-51bc8b20c92e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>39267365-dfa4-4a24-a4db-31ec2f5bc0a4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a7853425-9e3c-452f-bcae-aaa9dfd1e01c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5914d74e-86f6-4d3a-a5b6-71ceb24977db</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Cart/TC08 - User can not purchase order when name and credit card empty</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC06 - User successful purchase order</name>
+   <name>TC08 - User can not purchase order when name and credit card empty</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>912fcfc0-fdc3-470f-aa1c-14d74f30d1ff</testCaseGuid>
+   <testCaseGuid>459f776d-0e61-484f-8006-e82ca1c62c54</testCaseGuid>
    <variable>
-      <defaultValue>'Dell i7 8gb'</defaultValue>
+      <defaultValue>'Iphone 6 32gb'</defaultValue>
       <description></description>
       <id>07fb44d8-afe7-4b66-b658-4f897a8e96c0</id>
       <masked>false</masked>
@@ -27,7 +27,7 @@
       <name>productDescription</name>
    </variable>
    <variable>
-      <defaultValue>'fawfau'</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
       <id>496545db-5366-4b26-aa02-158732b8ed1d</id>
       <masked>false</masked>
@@ -48,7 +48,7 @@
       <name>city</name>
    </variable>
    <variable>
-      <defaultValue>'5555.5555.5555.555'</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
       <id>caebc2b7-f706-4c38-9b9f-51bc8b20c92e</id>
       <masked>false</masked>
